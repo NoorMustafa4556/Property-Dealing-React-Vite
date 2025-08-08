@@ -3,7 +3,6 @@
 A full-stack web application for managing property listings, built with the MERN stack (React, Node.js, Express) and a SQL database.
 
 
-
 ## Features
 
 - View all available properties.
