@@ -28,14 +28,18 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Installation
 
 1.  **Clone the repository:**
-    ```sh
+    ```bash
     git clone https://github.com/NoorMustafa4556/Property-Dealing-React-Vite.git
+    ```
+    ```bash
     cd Property-Dealing-React-Vite
     ```
 
 2.  **Setup Backend:**
-    ```sh
+    ```bash
     cd backend
+    ```
+    ```bash
     npm install
     ```
     - Create a `.env` file in the `backend` folder and add your database credentials:
@@ -52,11 +56,16 @@ Follow these instructions to get a copy of the project up and running on your lo
       ```
 
 3.  **Setup Frontend:**
-    ```sh
+    ```bash
     cd ../frontend
+    ```
+    ```bash
     npm install
+    ```
+    ```bash
     npm run dev
     ```
+    
 
 4.  Open your browser and navigate to `http://localhost:5173` (or whatever port Vite shows).
 
