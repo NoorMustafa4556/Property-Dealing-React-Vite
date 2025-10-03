@@ -10,7 +10,6 @@ A full-stack web application for managing property listings, built with the MERN
 - Delete a property from the list.
 - User-friendly and responsive interface.
 
-
 ## Tech Stack
 
 
