@@ -14,6 +14,7 @@ A full-stack web application for managing property listings, built with the MERN
 ## Tech Stack
 
 
+
 - **Frontend:** React, Vite, CSS
 - **Backend:** Node.js, Express.js
 - **Database:** MySQL (or any other SQL flavor you used)
