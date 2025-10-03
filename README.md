@@ -45,8 +45,15 @@ Follow these instructions to get a copy of the project up and running on your lo
     - Create a `.env` file in the `backend` folder and add your database credentials:
       ```
       DB_HOST=localhost
+      
+      ```
+      ```bash
       DB_USER=root
+      ```
+      ```
       DB_PASSWORD=your_password
+      ```
+      ```bash
       DB_NAME=property_dealing
       ```
     - Run the `property_dealing.sql` file in your SQL database to create the necessary tables.
